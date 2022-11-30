@@ -1,0 +1,24 @@
+.song {
+    text-align: left;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid grey;
+}
+
+.song-details {
+    padding-left: 1rem;
+    display: flex;
+    gap: 0.2rem;
+    flex-direction: column;
+}
+
+.chart-position {
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding-right: 1rem;
+}
+
+.name {
+    font-weight: bold;
+}
